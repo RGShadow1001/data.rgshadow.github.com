@@ -17,14 +17,16 @@ I use this repo as a "Warehouse" to host all the banners, icons, and "proof of t
 *These are the 'souls' of my projects. You might see them teleported into my other repos:*
 
 ### 1. The "Masterpiece" of Recycled Engineering
-![Cardboard Server](./images/cardboard_server.jpg)
+![Cardboard Server](https://github.com/RGShadow1001/data.rgshadow.github.com/blob/main/my%20old%20and%20gold%20equipments/cardboard.jpeg)
 > **Log:** *"Yes, that is an i3-M330 motherboard. Yes, that is a pizza box. No, I will not buy a real case until I finish my M.Tech in 2031."*
 > **Used in:** My "Personal Workflow" to scare off developers who think you need a Mac to write code.
 
 ### 2. The "VRAM Overlord" (Task Manager)
-![RTX 4060 Ti](./images/desktop_final.png)
+![Transparent Start](https://github.com/RGShadow1001/data.rgshadow.github.com/blob/main/my%20old%20and%20gold%20equipments/transparentstart.png)
+![Transparent Quick Settings](https://github.com/RGShadow1001/data.rgshadow.github.com/blob/main/my%20old%20and%20gold%20equipments/transparentnotis.png)
+
 > **Log:** *"My desktop is 80% transparent glass, 10% RGB, and 10% pure AI anxiety."*
-> **Used in:** The "Windows-Styler" docs to prove that an RTX 4060 Ti can handle 16GB of weights and transparent widgets at the same time.
+> **Used in:** The "Windows-Styler" docs to prove that an RTX 5060 Ti can handle 16GB of weights and transparent widgets at the same time.
 
 ### 3. The "Glowing Nervous System"
 ![ESP32 Dashboard](./images/esp32_dash.png)
