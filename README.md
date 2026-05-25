@@ -29,7 +29,7 @@ I use this repo as a "Warehouse" to host all the banners, icons, and "proof of t
 > **Used in:** The "Windows-Styler" docs to prove that an RTX 5060 Ti can handle 16GB of weights and transparent widgets at the same time.
 
 ### 3. The "Glowing Nervous System"
-![ESP32 Dashboard](./images/esp32_dash.png)
+![ESP32 Dashboard](https://github.com/RGShadow1001/data.rgshadow.github.com/blob/main/my%20old%20and%20gold%20equipments/esp32s3.png)
 > **Log:** *"If the light is Blue, it's thinking. If it's Green, it's happy. If it's Red, I probably messed up the Netplan indentation again."*
 > **Used in:** My IoT Robotics projects as evidence that I can control hardware from my bed.
 
