@@ -17,6 +17,7 @@ I use this repo as a "Warehouse" to host all the banners, icons, and "proof of t
 *These are the 'souls' of my projects. You might see them teleported into my other repos:*
 
 ### 1. The "Masterpiece" of Recycled Engineering
+       i3 M300, 6GB DDR3, 500GB Hdd
 ![Cardboard Server](https://github.com/RGShadow1001/data.rgshadow.github.com/blob/main/my%20old%20and%20gold%20equipments/cardboard.jpeg)
 > **Log:** *"Yes, that is an i3-M330 motherboard. Yes, that is a pizza box. No, I will not buy a real case until I finish my M.Tech in 2031."*
 > **Used in:** My "Personal Workflow" to scare off developers who think you need a Mac to write code.
